@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa_sostenible xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xsi:noNamespaceSchemaLocation="materialidad.xsd">
+    
+    <stakeholders>
+        <stakeholder nombre="ClientesUsuarios" importancia="alta">Usuarios finales afectados por accesibilidad, privacidad y rendimiento.</stakeholder>
+        <stakeholder nombre="EquipoDesarrollo" importancia="alta">Personal técnico responsable del ciclo de vida del software.</stakeholder>
+        <stakeholder nombre="ProveedoresCloud" importancia="media">Infraestructura que determina huella de carbono y gobernanza del dato.</stakeholder>
+    </stakeholders>
+    
+    <temas_materiales>
+        <tema_material id="01" impacto="Ambiental">
+            <descripcion>Eficiencia energética del código y optimización de recursos.</descripcion>
+        </tema_material>
+        <tema_material id="02" impacto="Social">
+            <descripcion>Accesibilidad universal y diseño inclusivo (WCAG 2.2).</descripcion>
+        </tema_material>
+        <tema_material id="03" impacto="Gobernanza">
+            <descripcion>Privacidad, ética algorítmica y gobernanza del dato.</descripcion>
+        </tema_material>
+    </temas_materiales>
+</empresa_sostenible>
