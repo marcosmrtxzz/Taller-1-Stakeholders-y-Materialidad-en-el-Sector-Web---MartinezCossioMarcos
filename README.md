@@ -25,5 +25,5 @@ Los **tres grupos de interés clave** para una consultora web son:
 
 ##  3. Archivos del Repositorio
 
-- `materialidad.xml` → Estructura de stakeholders y temas materiales.  
-- `README.md` → Documentación profesional del taller.
+- materialidad.xml : Estructura de stakeholders y temas materiales.  
+- README.md : Documentación profesional del taller.
